@@ -1,0 +1,6 @@
+
+Team Selection Exercise for TECHIN514
+
+Follow the instructions in teamfinder_client.ino to connect to the server and get your team assignment
+
+If you're curious, look at teamfinder_arduino_server.ino to see the server side
