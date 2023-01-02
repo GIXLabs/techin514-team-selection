@@ -75,8 +75,6 @@ void loop() {
 
         HTTPClient http;
 
-        // TODO : chipID as hex?
-
         char idString[10];
         sprintf(idString, "0x%x", chipID);
         String targetURL = "http://";
